@@ -1,0 +1,22 @@
+{
+    "8":{
+        "chore": "Dishes",
+        "body_fragment": "{roomie}, make sure to do the dishes!"
+    },
+    "11":{
+        "chore": "Dishes Reminder",
+        "body_fragment": "{roomie}, make sure to do the dishes if you have not already!"
+    },
+    "12":{
+        "chore": "Feed Nibbler",
+        "body_fragment": "{roomie}, make sure to feed Lord Nibbler! Be careful with the dark matter!"
+    },
+    "21":{
+        "chore": "Clean Table",
+        "body_fragment": "{roomie}, make sure to wipe down and clean the table!"
+    },
+    "22": {
+        "chore": "Lock Door",
+        "body_fragment": "{roomie}, make sure to lock the door and take out recycling/tash if you have not already!"
+    }
+}
